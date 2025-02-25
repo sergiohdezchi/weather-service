@@ -39,4 +39,10 @@ group :development, :test do
 
   # Omakase Ruby styling [https://github.com/rails/rubocop-rails-omakase/]
   gem "rubocop-rails-omakase", require: false
+  gem "byebug", platforms: %i[ mri mingw x64_mingw ]
+  gem "rubocop", require: false
 end
+
+gem "devise", "~> 4.9"
+
+gem "doorkeeper", "~> 5.8"
