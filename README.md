@@ -66,3 +66,10 @@ El backend estará disponible en `http://localhost:3000`
 
 Si tienes problemas, revisa los logs de cada servicio o ejecuta los comandos con más verbosidad (`bundle exec rails server --debug`).
 
+## Notas sobre IA
+Durante la elaboración de este proyecto, se utilizaron herramientas de inteligencia artificial para optimizar el proceso de desarrollo:
+
+- GitHub Copilot fue de gran utilidad para la generación de código, sugerencias de sintaxis y autocompletado en diversas secciones del proyecto.
+- ChatGPT fue empleado principalmente para resolver problemas de configuración, depuración de errores y obtención de explicaciones técnicas en distintos contextos del desarrollo.
+
+El uso de estas herramientas permitió acelerar el desarrollo y mejorar la eficiencia en la escritura de código y configuración del entorno. Sin embargo, todas las decisiones finales fueron revisadas y validadas manualmente para garantizar la calidad y coherencia del código.
