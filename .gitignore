@@ -33,4 +33,4 @@
 /config/master.key
 
 dump.rdb
-byebug_history
+.byebug_history
