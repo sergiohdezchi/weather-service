@@ -49,7 +49,7 @@ gem 'doorkeeper', '~> 5.8'
 
 gem 'rack-cors', '~> 2.0'
 
-gem 'httparty', '~> 0.22.0'
+gem 'httparty', '~> 0.23.1'
 
 gem 'redis', '~> 5.4'
 
