@@ -47,7 +47,7 @@ gem 'devise', '~> 4.9'
 
 gem 'doorkeeper', '~> 5.8'
 
-gem 'rack-cors', '~> 2.0'
+gem 'rack-cors', '~> 3.0'
 
 gem 'httparty', '~> 0.22.0'
 
